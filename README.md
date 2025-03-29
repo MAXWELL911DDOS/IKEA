@@ -42,5 +42,4 @@ cd IKEA: Переходит в директорию с кодом.
 
 python ikea.py
 
-бить
-python ikea.py: Запускает скрипт IKEA.
+
